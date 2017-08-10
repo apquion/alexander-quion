@@ -1,0 +1,48 @@
+.primary-color{
+  background-color: #2e7d32;
+}
+
+.primary-color-light{
+  background-color:#60ad5e;
+}
+
+#menu {
+  margin-right:50px;
+}
+
+.navbar{
+  font-family:'Lato', sans-serif;
+}
+
+.navbar-brand{
+  font-family:'Righteous',cursive;
+  font-size:40px;
+}
+
+.jumbotron{
+  font-family: 'PT Sans', sans-serif;
+  font-size:18px;
+
+}
+.projects{
+  padding:20px;
+}
+
+
+
+.media-links ul{
+  list-style:none;
+}
+
+.media-links ul li{
+  display:inline;
+
+}
+
+.signature{
+  font-size:12px;
+}
+
+
+
+
